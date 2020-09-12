@@ -1,0 +1,11 @@
+[package]
+name = "sidoc"
+version = "0.1.0"
+authors = ["Jan Danielsson <jan.danielsson@qrnch.com>"]
+edition = "2018"
+license = "0BSD"
+keywords = [ "text", "document", "html" ]
+repository = "https://github.com/openqrnch/sidoc"
+description = "Library for generating structured/scoped indented documents."
+
+[dependencies]
